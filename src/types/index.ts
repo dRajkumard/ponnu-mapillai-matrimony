@@ -1,0 +1,2 @@
+// Global types and interfaces
+
